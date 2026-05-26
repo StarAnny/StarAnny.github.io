@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihan Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "BEng student in IoT, University College Dublin, Beijing University of Technology. Interests in Robotics, Motion Contorl, Multimodal, Computer Vision."
+  bio              : "BE student in IoT, University College Dublin, Beijing University of Technology."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=f8CWFzwAAAAJ"
-  email            : "zihan.liu2@ucdconnect.ie, zihan.liu@emails.bjut.edu.cn"
+  email            : "zihan.liu@emails.bjut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -53,10 +53,12 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "小歌星爱学习"
+  weibo            : "u/6537394399"
   xing             :
   youtube          :
   wikipedia        :
+  RedNote          : "https://www.xiaohongshu.com/user/profile/60f56543000000000101e8a2"
+  Bilibili         : "https://space.bilibili.com/647150016"
 
 
 # Reading Files
