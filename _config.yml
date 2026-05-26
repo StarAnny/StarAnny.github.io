@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zihan Liu"
+description              : ""
+repository               : "StarAnny/StarAnny.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Zihan Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "BEng student in IoT, University College Dublin, Beijing University of Technology. Interests in Robotics, Motion Contorl, Multimodal, Computer Vision."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=f8CWFzwAAAAJ"
+  email            : "zihan.liu2@ucdconnect.ie, zihan.liu@emails.bjut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "StarAnny"
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "小歌星爱学习"
   xing             :
   youtube          :
   wikipedia        :
