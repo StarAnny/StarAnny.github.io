@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "StarAnny"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋 I'm Zihan Liu, 刘梓涵 (Anny). Currently an undergraduate student majoring in Internet of Things Engerneering. I enjoy practicing engineering projects. Always keep learning and exploring the combination of robotics and AI.
+# 😜 About Me
+Hi 👋 I'm **Zihan Liu**, 刘梓涵 (Anny). Currently an undergraduate student majoring in Internet of Things Engineering. I enjoy practicing engineering projects. Always keep learning and exploring the combination of robotics and AI.
 
 I mainly work with:
 - Languages: Python, C++, C, Java, MATLAB
-- Frameworks & Tools: ROS2, Linux, PyTorch, Git
+- Tools: ROS2, Linux, PyTorch, Git
 
 My research interest includes **robotics, motion control, Computer Vision, Multimodal**. I have published 1 paper at the bottem international AI conferences with total <a href='https://scholar.google.com/citations?user=f8CWFzwAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=f8CWFzwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 I like Photography 📷, guitar 🎸 and basketball 🏀.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 My first (terrible) paper was accepted by 4th ICICML.
+- *2025.11*: &nbsp;🎉🎉 My first paper was accepted by 4th ICICML.
 - *2023.07*: &nbsp;🎉🎉 I was accepted by BJUT and UCD, aka BDIC. 
 
 # 📝 Publications 
@@ -61,7 +62,7 @@ Yu Liang*; **Zihan Liu**; Ruotong Xing; Hanyu Liu; Xiaolu Cheng; Zikun Di
 - *2025.10* BJUT Scholarship for Academic Excellence Scholarship.
 
 # 📖 Educations
-- *2023.09 - 2027.06 (now)*, BE IoT in Beijing-Dublin International College (Beijing university of Technology & University College Dublin).
+- *2023.09 - 2027.06 (now)*, BE IoT in Beijing-Dublin International College (Beijing university of Technology, University College Dublin).
 - *2026.03 - 2027.06 (now)*, AI Micro-major in BJUT.
 - *2020.09 - 2023.06*, Yangcun No.1 High School.
 - *2026.08*, TUM summer school in Robotics and Embodied Intelligence.
