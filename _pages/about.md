@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi 👋 I'm StarAnny. Currently an undergraduate student majoring in Internet of Things. I enjoy practicing engineering projects. Always keep learning and exploring the combination of robotics and AI.
+Hi 👋 I'm Zihan Liu, 刘梓涵 (Anny). Currently an undergraduate student majoring in Internet of Things Engerneering. I enjoy practicing engineering projects. Always keep learning and exploring the combination of robotics and AI.
 
 I mainly work with:
 - Languages: Python, C++, C, Java, MATLAB
@@ -46,6 +46,14 @@ Yu Liang*; **Zihan Liu**; Ruotong Xing; Hanyu Liu; Xiaolu Cheng; Zikun Di
 </div>
 
 - [DPT-Fall: A Detection-Pose-Transformer Framework for Real-Time Fall Detection](https://ieeexplore.ieee.org/abstract/document/11333797), Yu Liang*, **Zihan Liu**, Ruotong Xing, Hanyu Liu, **ICICML 2026**
+
+# 🚀 Projects
+- [Inventory Management System](https://github.com/StarAnny/Inventory-Management-System)
+- [Fall Detection](https://github.com/StarAnny/fall-detection)
+- [Hotel Reservation System](https://github.com/StarAnny/Hotel-Reservation-System)
+- [Mine Sweeper](https://github.com/StarAnny/MineSweeper)
+- [CyberDog2](https://github.com/StarAnny/cyber-dog2)
+- [Elderly AI Tutorial](https://github.com/StarAnny/Elderly_AI_Tutorial)
 
 # 🎖 Honors and Awards
 - *2026.03* UCD Advantage Award.
