@@ -2,6 +2,7 @@
 permalink: /
 title: "StarAnny"
 excerpt: ""
+layout: default
 author_profile: true
 redirect_from: 
   - /about/
