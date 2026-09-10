@@ -219,6 +219,12 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> RedNote</a>
+      {% endif %}
+      {% if author.bilibili %}
+        <a href="{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i> Bilibili</a>
+      {% endif %}
     </div>
   </div>
 </div>
